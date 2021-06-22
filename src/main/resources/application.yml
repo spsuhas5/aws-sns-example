@@ -4,7 +4,7 @@ cloud:
       static: us-east-1
       auto: false
     credentials:
-      access-key: AKIA2LISEQ7243S5QAUX
-      secret-key: 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
+      access-key: 
+      secret-key: 
     end-point:
       uri: https://sqs.us-east-1.amazonaws.com/265765232051/myFirstSQSQueue
